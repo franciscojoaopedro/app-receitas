@@ -1,13 +1,13 @@
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 
-
-import {Home} from '../pages/home';
+import {StackRoutes} from "./stackRoutes"
+//import {Home} from '../pages/home';
 import {Detail} from '../pages/detail'
 import {Favorites} from '../pages/favorite'
 import {Search} from '../pages/search'
 
 import {Ionicons} from "@expo/vector-icons"
-import { MaterialIcons } from '@expo/vector-icons'; 
+
 
 
 const Tab=createBottomTabNavigator();
@@ -25,7 +25,7 @@ export function Routes(){
                 tabBarStyle:{
                     backgroundColor:"#fff",
                     borderTopWidth:1,
-                    borderTopColor:"#86efac"
+                    borderTopColor:"#fb923c"
                 }
 
             }}
@@ -35,36 +35,24 @@ export function Routes(){
                 {
                     tabBarIcon:({color,size,focused})=>{
                         if(focused){
-                            return   <Ionicons name="home" color="#6ee7b7" size={size} />
+                            return   <Ionicons name="home" color="#d97706" size={size} />
                         }
-                        return <Ionicons name="home-outline" color="#6ee7b7" size={size} />
+                        return <Ionicons name="home-outline" color="#d97706" size={size} />
                     }
                 }
             }
-            component={Home}
+            component={StackRoutes}
              />
-            <Tab.Screen 
-             options={
-                {
-                    tabBarIcon:({color,size,focused})=>{
-                        if(focused){
-                            return   <MaterialIcons name="details" color="#6ee7b7" size={size} />
-                        }
-                        return <MaterialIcons name="details" color="#6ee7b7" size={size} />
-                    }
-                }
-            }
-            
-            name='DetailTab' component={Detail} />
+       
             <Tab.Screen 
             
             options={
                 {
                     tabBarIcon:({color,size,focused})=>{
                         if(focused){
-                            return   <Ionicons name="search" color="#6ee7b7" size={size} />
+                            return   <Ionicons name="search" color="#d97706" size={size} />
                         }
-                        return <Ionicons name="search-outline" color="#6ee7b7" size={size} />
+                        return <Ionicons name="search-outline" color="#d97706" size={size} />
                     }
                 }
             }
@@ -77,7 +65,7 @@ export function Routes(){
                         if(focused){
                             return  <Ionicons name="heart" color="#be123c" size={size} />
                         }
-                        return <Ionicons name="heart-outline" color="#6ee7b7" size={size} />
+                        return <Ionicons name="heart-outline" color="#ef4444" size={size} />
                     }
                 }
             }

@@ -40,19 +40,15 @@ export function Home(){
             onChangeText={(text)=>setInputValue(text)}
             />
             <TouchableOpacity  onPress={handleSearch} >
-                <Ionicons name='search' size={28} color="#4ade80" />
+                <Ionicons name='search' size={28} color="#f97316" />
             </TouchableOpacity>
            </View>
 
            <FlatList
            data={receitas}
            keyExtractor={(item)=>String(item.id)}
-           renderItem={({item})=> 
-           <ListaReceitas
-           data={item}
-           
-           />}
-           
+           renderItem={({item})=> <ListaReceitas data={item}/>}
+           showsVerticalScrollIndicator={false}
            
            />
 

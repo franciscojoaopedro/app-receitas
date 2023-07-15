@@ -1,8 +1,13 @@
 import {View,Text,StyleSheet,TouchableOpacity, Image} from "react-native"
 import {LinearGradient} from 'expo-linear-gradient'
+import {useNavigation } from "@react-navigation/native"
 export function ListaReceitas({data}){
-    return(
-        <TouchableOpacity activeOpacity={0.8}  style={styles.container} >
+    const navigation=useNavigation();
+    function hendleNavigate(){
+        navigation.navigate("Detail",{data:data})
+    }   
+return(
+        <TouchableOpacity activeOpacity={0.8}  style={styles.container} onPress={hendleNavigate} >
             <Image
            source={{uri:data.cover}}
             style={styles.imagem}
