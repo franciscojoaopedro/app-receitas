@@ -1,0 +1,16 @@
+{
+  "receitas": [
+    {
+      "id": 1,
+      "nome": "Pizza Margherita",
+      "ingredientes": [
+        "massa de pizza",
+        "molho de tomate",
+        "queijo mussarela",
+        "manjericão"
+      ],
+      "instrucoes": "1. Pré-aqueça o forno a 220°C. 2. Estenda a massa em uma forma de pizza. 3. Espalhe o molho de tomate sobre a massa. 4. Cubra com queijo mussarela. 5. Decore com folhas de manjericão. 6. Asse no forno por 15-20 minutos ou até que a massa esteja dourada.",
+      "cover": "http://i.imgur.com/shupGxl.jpeg"
+    }
+  ]
+}

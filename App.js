@@ -6,11 +6,7 @@ export default function App(){
 
   return(
    <NavigationContainer>
-    <View>
-      <Text>
-        hola
-      </Text>
-    </View>
+    
     <Routes/>
    </NavigationContainer>
   )

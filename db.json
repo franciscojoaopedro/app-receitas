@@ -1,0 +1,145 @@
+{
+    "receitas": [
+      {
+        "id": 1,
+        "nome": "Pizza Margherita",
+        "ingredientes": ["massa de pizza", "molho de tomate", "queijo mussarela", "manjericão"],
+        "instrucoes": "1. Pré-aqueça o forno a 220°C. 2. Estenda a massa em uma forma de pizza. 3. Espalhe o molho de tomate sobre a massa. 4. Cubra com queijo mussarela. 5. Decore com folhas de manjericão. 6. Asse no forno por 15-20 minutos ou até que a massa esteja dourada.",
+        "cover": "http://i.imgur.com/shupGxl.jpeg"
+      },
+      {
+        "id": 2,
+        "nome": "Hambúrguer",
+        "ingredientes": ["pão de hambúrguer", "carne moída", "queijo", "alface", "tomate", "cebola"],
+        "instrucoes": "1. Molde a carne moída em formato de hambúrguer. 2. Grelhe o hambúrguer em fogo médio-alto por 4-5 minutos de cada lado. 3. Monte o hambúrguer colocando-o no pão e adicionando queijo, alface, tomate e cebola a gosto.",
+        "cover": "https://i.imgur.com/gLsN9cd.jpeg"
+      },
+      {
+        "id": 3,
+        "nome": "Sushi",
+        "ingredientes": ["arroz para sushi", "peixe cru", "alga nori", "molho de soja", "wasabi", "gengibre em conserva"],
+        "instrucoes": "1. Cozinhe o arroz para sushi de acordo com as instruções da embalagem. 2. Corte o peixe em fatias finas. 3. Coloque uma folha de alga nori sobre uma esteira de sushi. 4. Espalhe o arroz sobre a alga nori, deixando uma borda livre. 5. Coloque fatias de peixe sobre o arroz. 6. Enrole o sushi com a ajuda da esteira. 7. Corte em rodelas e sirva com molho de soja, wasabi e gengibre em conserva.",
+        "cover": "https://burst.shopifycdn.com/photos/fresh-sushi-rolls-on-white-plate.jpg?width=925&format=pjpg&exif=1&iptc=1"
+      },
+      {
+        "id": 4,
+        "nome": "Macarrão à Bolonhesa",
+        "ingredientes": ["macarrão", "carne moída", "molho de tomate", "cebola", "alho", "manjericão", "queijo parmesão"],
+        "instrucoes": "1. Cozinhe o macarrão de acordo com as instruções da embalagem. 2. Em uma panela, refogue a cebola e o alho. 3. Adicione a carne moída e cozinhe até dourar. 4. Acrescente o molho de tomate e o manjericão. 5. Cozinhe por alguns minutos. 6. Sirva o molho sobre o macarrão e polvilhe com queijo parmesão.",
+        "cover": "https://www.sabornamesa.com.br/media/k2/items/cache/9e9e1351d6a763151a8613c1dd10d427_XL.jpg"
+      },
+      {
+        "id": 5,
+        "nome": "Salada Caesar",
+        "ingredientes": ["alface romana", "croutons", "queijo parmesão", "peito de frango grelhado", "molho Caesar"],
+        "instrucoes": "1. Rasgue as folhas de alface romana em uma tigela. 2. Adicione os croutons. 3. Polvilhe queijo parmesão ralado por cima. 4. Corte o peito de frango grelhado em fatias e coloque sobre a salada. 5. Regue com molho Caesar a gosto.",
+        "cover": "https://www.pingodoce.pt/wp-content/uploads/2019/07/salada-cesar-com-croutons-1.jpg"
+      },
+      {
+        "id": 6,
+        "nome": "Tacos",
+        "ingredientes": ["tortillas de milho", "carne moída", "pimentão", "cebola", "tempero para tacos", "queijo cheddar", "salsa", "guacamole"],
+        "instrucoes": "1. Aqueça as tortillas de milho em uma frigideira. 2. Refogue a carne moída com o pimentão, a cebola e o tempero para tacos. 3. Monte os tacos colocando a carne moída, o queijo cheddar ralado, salsa e guacamole nas tortillas aquecidas.",
+        "cover": "https://static.itdg.com.br/images/1200-675/7e7c9a4efc1c57f768dc1314c11262d1/350394-original.jpg"
+      },
+      {
+        "id": 7,
+        "nome": "Frango Assado",
+        "ingredientes": ["frango inteiro", "limão", "alho", "azeite", "sal", "pimenta"],
+        "instrucoes": "1. Pré-aqueça o forno a 200°C. 2. Lave o frango e seque-o bem. 3. Esprema o suco de limão sobre o frango. 4. Faça pequenos cortes na pele e insira fatias de alho. 5. Regue o frango com azeite e tempere com sal e pimenta a gosto. 6. Asse no forno por aproximadamente 1 hora ou até que a pele esteja dourada e a carne esteja cozida.",
+        "cover": "https://cozinhalegal.com.br/wp-content/uploads/2019/03/Frango-Assado-Forno-4-3.jpg"
+      },
+      {
+        "id": 8,
+        "nome": "Purê de Batatas",
+        "ingredientes": ["batatas", "manteiga", "leite", "sal", "pimenta"],
+        "instrucoes": "1. Descasque e corte as batatas em pedaços. 2. Cozinhe as batatas em água com sal até que estejam macias. 3. Escorra as batatas e amasse-as com um garfo ou passe-as por um espremedor. 4. Adicione manteiga e leite quente aos poucos, misturando bem até obter a consistência desejada. 5. Tempere com sal e pimenta a gosto.",
+        "cover": "https://www.casalcozinha.com.br/wp-content/uploads/2020/09/como-fazer-pure-de-batatas-tradicional-7.jpg"
+      },
+      {
+        "id": 9,
+        "nome": "Risoto de Cogumelos",
+        "ingredientes": ["arroz arbóreo", "cogumelos", "cebola", "alho", "caldo de legumes", "queijo parmesão", "manteiga"],
+        "instrucoes": "1. Em uma panela, refogue a cebola e o alho na manteiga. 2. Adicione os cogumelos e cozinhe até ficarem macios. 3. Acrescente o arroz e misture bem. 4. Adicione o caldo de legumes aos poucos, mexendo sempre até que o arroz esteja cozido e cremoso. 5. Finalize com queijo parmesão ralado e sirva quente.",
+        "cover": "https://www.pingodoce.pt/wp-content/uploads/2021/07/risotto-de-cogumelos-com-caldo-de-espargos.jpeg"
+      },
+      {
+        "id": 10,
+        "nome": "Panquecas",
+        "ingredientes": ["farinha de trigo", "leite", "ovos", "açúcar", "fermento em pó", "manteiga"],
+        "instrucoes": "1. Em uma tigela, misture a farinha de trigo, o açúcar e o fermento em pó. 2. Adicione os ovos e o leite, mexendo bem até obter uma massa homogênea. 3. Aqueça uma frigideira antiaderente e derreta um pouco de manteiga. 4. Despeje uma porção da massa na frigideira e espalhe uniformemente. 5. Cozinhe por alguns minutos de cada lado até dourar. 6. Repita o processo com o restante da massa. 7. Sirva as panquecas com coberturas de sua preferência.",
+        "cover": "https://www.pingodoce.pt/wp-content/uploads/2016/03/617x370_pd_6863.jpg"
+      },
+      {
+        "id": 11,
+        "nome": "Sopa de Tomate",
+        "ingredientes": ["tomates", "cebola", "alho", "caldo de legumes", "manjericão", "azeite", "sal", "pimenta"],
+        "instrucoes": "1. Em uma panela grande, refogue a cebola e o alho no azeite. 2. Adicione os tomates picados e cozinhe por alguns minutos. 3. Acrescente o caldo de legumes e deixe ferver. 4. Reduza o fogo e cozinhe por mais 15-20 minutos. 5. Tempere com sal, pimenta e manjericão a gosto. 6. Use um liquidificador ou mixer de imersão para obter uma consistência cremosa. 7. Aqueça novamente antes de servir.",
+        "cover": "https://static.itdg.com.br/images/1200-675/dfed94a99672efa9b8af8c8da917f48f/320099-original.jpg"
+      },
+      {
+        "id": 12,
+        "nome": "Pão de Alho",
+        "ingredientes": ["pão francês", "manteiga", "alho", "salsinha", "queijo parmesão"],
+        "instrucoes": "1. Pré-aqueça o forno a 180°C. 2. Misture a manteiga amolecida, o alho picado e a salsinha em uma tigela. 3. Corte o pão em fatias, sem separá-las completamente. 4. Espalhe a mistura de manteiga, alho e salsinha entre as fatias do pão. 5. Polvilhe com queijo parmesão ralado. 6. Enrole o pão em papel alumínio e leve ao forno por 10-15 minutos, até que o queijo esteja derretido e o pão esteja crocante.",
+        "cover": "https://static.itdg.com.br/images/1200-630/29bb34fe6c77a207ef81674db457b268/356804-original.jpg"
+      },
+      {
+        "id": 13,
+        "nome": "Mousse de Chocolate",
+        "ingredientes": ["chocolate meio amargo", "ovos", "açúcar", "manteiga", "creme de leite"],
+        "instrucoes": "1. Derreta o chocolate meio amargo e a manteiga em banho-maria. 2. Separe as gemas das claras dos ovos. 3. Bata as claras em neve com açúcar até obter picos firmes. 4. Misture as gemas ao chocolate derretido, incorporando bem. 5. Adicione delicadamente as claras em neve à mistura de chocolate. 6. Coloque a mousse em taças individuais e leve à geladeira por pelo menos 2 horas. 7. Decore com raspas de chocolate e sirva gelado.",
+        "cover": "https://static.itdg.com.br/images/1200-675/5911cbf70c9aa8939a90bd9941bce071/325113-original.jpg"
+      },
+      {
+        "id": 14,
+        "nome": "Churrasco",
+        "ingredientes": ["carnes (picanha, alcatra, linguiça, frango)", "sal grosso", "temperos a gosto"],
+        "instrucoes": "1. Prepare a churrasqueira e acenda o carvão. 2. Tempere as carnes com sal grosso e outros temperos de sua preferência. 3. Coloque as carnes na grelha da churrasqueira e deixe grelhar de acordo com o ponto desejado. 4. Vire as carnes de vez em quando para assar por igual. 5. Retire as carnes da churrasqueira e sirva quente.",
+        "cover": "https://pubimg.band.uol.com.br/files/1307321594d074a21c9f.webp"
+      },
+      {
+        "id": 15,
+        "nome": "Brownie",
+        "ingredientes": ["chocolate meio amargo", "manteiga", "açúcar", "ovos", "farinha de trigo", "cacau em pó", "nozes picadas"],
+        "instrucoes": "1. Pré-aqueça o forno a 180°C. 2. Derreta o chocolate meio amargo e a manteiga em banho-maria. 3. Em uma tigela, misture o açúcar, os ovos, a farinha de trigo e o cacau em pó. 4. Adicione o chocolate derretido e as nozes picadas à mistura e mexa bem. 5. Despeje a massa em uma forma untada e leve ao forno por 20-25 minutos. 6. Deixe esfriar antes de cortar em pedaços.",
+        "cover": "https://static.itdg.com.br/images/1200-630/2d5bf7e723ff64c4c9e8341ed2fa653e/brownie-super-facil.jpg"
+      },
+      {
+        "id": 16,
+        "nome": "Lasanha à Bolonhesa",
+        "ingredientes": ["massa para lasanha", "carne moída", "molho de tomate", "queijo mussarela", "queijo parmesão", "cebola", "alho", "manjericão", "azeite", "sal", "pimenta"],
+        "instrucoes": "1. Pré-aqueça o forno a 180°C. 2. Cozinhe a massa para lasanha de acordo com as instruções da embalagem. 3. Em uma panela, refogue a cebola e o alho no azeite. 4. Adicione a carne moída e cozinhe até dourar. 5. Acrescente o molho de tomate, o manjericão, o sal e a pimenta. 6. Em uma forma, faça camadas alternadas de massa, molho de carne, queijo mussarela e queijo parmesão. 7. Repita as camadas até terminar os ingredientes, finalizando com queijo parmesão. 8. Asse no forno por 30-35 minutos, até que o queijo esteja dourado e borbulhante.",
+        "cover": "https://exemplo.com/imagem_lasanha_bolonhesa.jpg"
+      },
+      {
+        "id": 17,
+        "nome": "Coxinhas",
+        "ingredientes": ["frango cozido e desfiado", "caldo de frango", "farinha de trigo", "cebola", "alho", "manteiga", "leite", "sal", "pimenta", "ovos", "farinha de rosca", "óleo para fritar"],
+        "instrucoes": "1. Em uma panela, refogue a cebola e o alho na manteiga. 2. Adicione o frango desfiado e o caldo de frango, misturando bem. 3. Acrescente a farinha de trigo e mexa até obter uma massa homogênea. 4. Adicione o leite aos poucos, mexendo sempre, até a massa soltar do fundo da panela. 5. Tempere com sal e pimenta a gosto. 6. Deixe a massa esfriar e modele as coxinhas. 7. Passe as coxinhas nos ovos batidos e, em seguida, na farinha de rosca. 8. Frite as coxinhas em óleo quente até ficarem douradas. 9. Escorra em papel absorvente antes de servir.",
+        "cover": "https://exemplo.com/imagem_coxinhas.jpg"
+      },
+      {
+        "id": 18,
+        "nome": "Pudim de Leite Condensado",
+        "ingredientes": ["leite condensado", "leite", "ovos", "açúcar"],
+        "instrucoes": "1. Pré-aqueça o forno a 180°C. 2. Em uma forma de pudim, derreta o açúcar em fogo baixo até caramelizar. 3. No liquidificador, bata o leite condensado, o leite e os ovos até obter uma mistura homogênea. 4. Despeje a mistura na forma caramelizada. 5. Asse em banho-maria por aproximadamente 1 hora, até que o pudim esteja firme. 6. Deixe esfriar completamente antes de desenformar.",
+        "cover": "https://exemplo.com/imagem_pudim_leite_condensado.jpg"
+      },
+      {
+        "id": 19,
+        "nome": "Bolo de Cenoura",
+        "ingredientes": ["cenoura", "farinha de trigo", "açúcar", "ovos", "óleo", "fermento em pó", "chocolate em pó", "manteiga", "leite condensado"],
+        "instrucoes": "1. Pré-aqueça o forno a 180°C. 2. No liquidificador, bata a cenoura, os ovos, o óleo e o açúcar até obter uma mistura homogênea. 3. Em uma tigela, peneire a farinha de trigo, o fermento em pó e o chocolate em pó. 4. Adicione a mistura líquida aos ingredientes secos e misture bem. 5. Despeje a massa em uma forma untada e leve ao forno por aproximadamente 30-40 minutos, até que o bolo esteja assado e dourado. 6. Para a cobertura, derreta a manteiga em uma panela, adicione o leite condensado e cozinhe até obter um creme espesso. 7. Cubra o bolo com a cobertura e sirva.",
+        "cover": "https://exemplo.com/imagem_bolo_cenoura.jpg"
+      },
+      {
+        "id": 20,
+        "nome": "Salada Caprese",
+        "ingredientes": ["tomates", "queijo mussarela de búfala", "folhas de manjericão", "azeite de oliva", "vinagre balsâmico", "sal", "pimenta"],
+        "instrucoes": "1. Corte os tomates em fatias grossas. 2. Corte o queijo mussarela de búfala em fatias. 3. Em um prato, alterne as fatias de tomate e queijo. 4. Disponha folhas de manjericão entre as fatias. 5. Regue com azeite de oliva e vinagre balsâmico. 6. Tempere com sal e pimenta a gosto.",
+        "cover": "https://exemplo.com/imagem_salada_caprese.jpg"
+      }
+    ]
+  }
+  
