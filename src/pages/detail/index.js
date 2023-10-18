@@ -168,3 +168,5 @@ const styles=StyleSheet.create({
      borderRadius:16,
     }
 })
+
+// parei no video 3 : 1:23:45
